@@ -1,0 +1,268 @@
+date,run_id,hospital_id,hospital,system,column,field,old_value,new_value,note
+2026-11-09,2026-11-09-initial,0101000-0002,Albany Medical Center - South Clinical Campus,Albany Med Health System,V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0101000-0001,Albany Medical Center Hospital,Albany Med Health System,V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701000-0116,Arnot Ogden Medical Center,Centralus Health (Cayuga Health & Arnot Health),S,"Policy Summary Posted (as PDF, or on landing page)",no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701000-0116,Arnot Ogden Medical Center,Centralus Health (Cayuga Health & Arnot Health),U,Consistent across posted documents (Y/N),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701000-0116,Arnot Ogden Medical Center,Centralus Health (Cayuga Health & Arnot Health),V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701000-0116,Arnot Ogden Medical Center,Centralus Health (Cayuga Health & Arnot Health),W,No time limit to submit?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701000-0116,Arnot Ogden Medical Center,Centralus Health (Cayuga Health & Arnot Health),Y,No evidence of asset checks,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701000-0116,Arnot Ogden Medical Center,Centralus Health (Cayuga Health & Arnot Health),AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701000-0116,Arnot Ogden Medical Center,Centralus Health (Cayuga Health & Arnot Health),AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701000-0116,Arnot Ogden Medical Center,Centralus Health (Cayuga Health & Arnot Health),AM,Means of applying for assistance explained,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701000-0116,Arnot Ogden Medical Center,Centralus Health (Cayuga Health & Arnot Health),AN,Income levels used to determine assistance,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0501000-0085,Auburn Community Hospital,Auburn Community Hospital,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957000-1138,Blythedale Children's Hospital,Blythedale,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957000-1138,Blythedale Children's Hospital,Blythedale,V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957000-1138,Blythedale Children's Hospital,Blythedale,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957000-1138,Blythedale Children's Hospital,Blythedale,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957000-1138,Blythedale Children's Hospital,Blythedale,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3535001-0708,Bon Secours Community Hospital,Westchester Medical Center Health Network,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3535001-0708,Bon Secours Community Hospital,Westchester Medical Center Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3535001-0708,Bon Secours Community Hospital,Westchester Medical Center Health Network,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7000011-10223,Calvary Hospital Bronx NY,Calvary Hospital,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7000011-1175,Calvary Hospital Inc,Calvary Hospital,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2238700-0379,Carthage Area Hospital Inc,Carthage Area Hospital,S,"Policy Summary Posted (as PDF, or on landing page)",no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2238700-0379,Carthage Area Hospital Inc,Carthage Area Hospital,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2238700-0379,Carthage Area Hospital Inc,Carthage Area Hospital,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2238700-0379,Carthage Area Hospital Inc,Carthage Area Hospital,AD,ENTIRE Uniform Application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2238700-0379,Carthage Area Hospital Inc,Carthage Area Hospital,AG,Income & Discount Tables Incuded in Application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2238700-0379,Carthage Area Hospital Inc,Carthage Area Hospital,AI,Max FPL (compliant is =/>400%),300%,400%,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2238700-0379,Carthage Area Hospital Inc,Carthage Area Hospital,AJ,Installments capped at 5% of monthly income,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2238700-0379,Carthage Area Hospital Inc,Carthage Area Hospital,AM,Means of applying for assistance explained,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2238700-0379,Carthage Area Hospital Inc,Carthage Area Hospital,AN,Income levels used to determine assistance,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5401001-0977,Cayuga Medical Center at Ithaca,Centralus Health (Cayuga Health & Arnot Health),T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5401001-0977,Cayuga Medical Center at Ithaca,Centralus Health (Cayuga Health & Arnot Health),V,Primary Service Area boundaries compliant with 2007 guidelines?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5401001-0977,Cayuga Medical Center at Ithaca,Centralus Health (Cayuga Health & Arnot Health),AN,Income levels used to determine assistance,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4401000-0798,Claxton-Hepburn Medical Center,Claxton-Hepburn Medical Center,AN,Income levels used to determine assistance,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,UNRESOLVED-84e883e7f079,Cohen Children's Medical Center,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1001000-0146,Columbia Memorial Hospital,Albany Med Health System,V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2625700-0401,Community Memorial Hospital Inc,Community Memorial Hospital,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2625700-0401,Community Memorial Hospital Inc,Community Memorial Hospital,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2625700-0401,Community Memorial Hospital Inc,Community Memorial Hospital,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,,Corning Hospital,The Guthrie Clinic,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,,Corning Hospital,The Guthrie Clinic,AD,ENTIRE Uniform Application,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,,Corning Hospital,The Guthrie Clinic,AG,Income & Discount Tables Incuded in Application,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,,Corning Hospital,The Guthrie Clinic,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002020-10355,David H. Koch Center For Cancer Care,Memorial Sloan Kettering,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002020-10355,David H. Koch Center For Cancer Care,Memorial Sloan Kettering,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401005-0210,Erie County Medical Center,Erie County Medical Health,R,Application Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401005-0210,Erie County Medical Center,Erie County Medical Health,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401005-0210,Erie County Medical Center,Erie County Medical Health,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401005-0210,Erie County Medical Center,Erie County Medical Health,AD,ENTIRE Uniform Application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401005-0210,Erie County Medical Center,Erie County Medical Health,AE,Contact information included in application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401005-0210,Erie County Medical Center,Erie County Medical Health,AG,Income & Discount Tables Incuded in Application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401005-0210,Erie County Medical Center,Erie County Medical Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401005-0210,Erie County Medical Center,Erie County Medical Health,AI,Max FPL (compliant is =/>400%),no,400%,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401005-0210,Erie County Medical Center,Erie County Medical Health,AJ,Installments capped at 5% of monthly income,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3523000-0699,Garnet Health Medical Center,Garnet Health,AE,Contact information included in application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3523000-0699,Garnet Health Medical Center,Garnet Health,AI,Max FPL (compliant is =/>400%),no,400%,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3523000-0699,Garnet Health Medical Center,Garnet Health,AJ,Installments capped at 5% of monthly income,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5263000-0971,Garnet Health Medical Center - Catskills,Garnet Health,AE,Contact information included in application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5263000-0971,Garnet Health Medical Center - Catskills,Garnet Health,AI,Max FPL (compliant is =/>400%),no,400%,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5263000-0971,Garnet Health Medical Center - Catskills,Garnet Health,AJ,Installments capped at 5% of monthly income,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5263700-0968,Garnet Health Medical Center - Catskills - G. Hermann Site,Garnet Health,AE,Contact information included in application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5263700-0968,Garnet Health Medical Center - Catskills - G. Hermann Site,Garnet Health,AI,Max FPL (compliant is =/>400%),no,400%,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5263700-0968,Garnet Health Medical Center - Catskills - G. Hermann Site,Garnet Health,AJ,Installments capped at 5% of monthly income,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2901000-0490,Glen Cove Hospital,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5601000-1005,Glens Falls Hospital,Albany Med Health System,V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5154001-0925,Good Samaritan Hospital Medical Center,Catholic Health (LI),Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4329000-0779,Good Samaritan Hospital of Suffern,Westchester Medical Center Health Network,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4329000-0779,Good Samaritan Hospital of Suffern,Westchester Medical Center Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4329000-0779,Good Samaritan Hospital of Suffern,Westchester Medical Center Health Network,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1101000-0158,Guthrie Cortland Medical Center,The Guthrie Clinic,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1101000-0158,Guthrie Cortland Medical Center,The Guthrie Clinic,AD,ENTIRE Uniform Application,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1101000-0158,Guthrie Cortland Medical Center,The Guthrie Clinic,AG,Income & Discount Tables Incuded in Application,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1101000-0158,Guthrie Cortland Medical Center,The Guthrie Clinic,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5501000-0989,HealthAlliance Hospital Mary's Avenue Campus,Westchester Medical Center Health Network,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5501000-0989,HealthAlliance Hospital Mary's Avenue Campus,Westchester Medical Center Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5501000-0989,HealthAlliance Hospital Mary's Avenue Campus,Westchester Medical Center Health Network,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4322000-0775,Helen Hayes Hospital,Operated by NYS DOH; Affiliated with NYP,Z,No mention of immigration status as a barrier,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4322000-0775,Helen Hayes Hospital,Operated by NYS DOH; Affiliated with NYP,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002012-1447,Hospital for Special Surgery,Hospital for Special Surgery,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5153000-0913,Huntington Hospital,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5022000-0873,Ira Davenport Memorial Hospital,Centralus Health (Cayuga Health & Arnot Health),S,"Policy Summary Posted (as PDF, or on landing page)",no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5022000-0873,Ira Davenport Memorial Hospital,Centralus Health (Cayuga Health & Arnot Health),U,Consistent across posted documents (Y/N),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5022000-0873,Ira Davenport Memorial Hospital,Centralus Health (Cayuga Health & Arnot Health),W,No time limit to submit?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5022000-0873,Ira Davenport Memorial Hospital,Centralus Health (Cayuga Health & Arnot Health),Y,No evidence of asset checks,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5022000-0873,Ira Davenport Memorial Hospital,Centralus Health (Cayuga Health & Arnot Health),AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5022000-0873,Ira Davenport Memorial Hospital,Centralus Health (Cayuga Health & Arnot Health),AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5022000-0873,Ira Davenport Memorial Hospital,Centralus Health (Cayuga Health & Arnot Health),AM,Means of applying for assistance explained,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5022000-0873,Ira Davenport Memorial Hospital,Centralus Health (Cayuga Health & Arnot Health),AN,Income levels used to determine assistance,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5149000-0895,John T Mather Memorial Hospital of Port Jefferson New York Inc,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1404000-0267,Kenmore Mercy Hospital,Catholic Health (Buffalo),U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1404000-0267,Kenmore Mercy Hospital,Catholic Health (Buffalo),AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002017-9700,Lenox Health Greenwich Village,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002017-1450,Lenox Hill Hospital,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3121001-15464,"Lockport Memorial Hospital, a Campus of Mount St Mary's",Catholic Health (Buffalo),U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3121001-15464,"Lockport Memorial Hospital, a Campus of Mount St Mary's",Catholic Health (Buffalo),AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7003004-885,Long Island Jewish Forest Hills,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7003004-1630,Long Island Jewish Medical Center,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7003004-0518,Long Island Jewish Valley Stream,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001020-1305,Maimonides Medical Center,Maimonides Health,Y,No evidence of asset checks,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001020-1305,Maimonides Medical Center,Maimonides Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1226701-0170,Margaretville Hospital,Westchester Medical Center Health Network,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1226701-0170,Margaretville Hospital,Westchester Medical Center Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1226701-0170,Margaretville Hospital,Westchester Medical Center Health Network,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3622700-0718,Medina Memorial Hospital,Orleans Community Health,AL,Primary Service Area described in summary?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002020-1453,Memorial Hospital for Cancer and Allied Diseases,Memorial Sloan Kettering,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002020-1453,Memorial Hospital for Cancer and Allied Diseases,Memorial Sloan Kettering,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2909000-0513,Mercy Hospital,Catholic Health (LI),Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401008-0213,Mercy Hospital of Buffalo,Catholic Health (Buffalo),U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401008-0213,Mercy Hospital of Buffalo,Catholic Health (Buffalo),AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957001-0180,Mid-Hudson Valley Division of Westchester Medical Center,Westchester Medical Center Health Network,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957001-0180,Mid-Hudson Valley Division of Westchester Medical Center,Westchester Medical Center Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957001-0180,Mid-Hudson Valley Division of Westchester Medical Center,Westchester Medical Center Health Network,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7000006-3058,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,Montefiore Health System,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7000006-1169,Montefiore Health System - Henry & Lucy Moses Div,Montefiore Health System,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7000006-1185,Montefiore Health System - Montefiore Westchester Square,Montefiore Health System,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7000006-1168,Montefiore Health System-Wakefield Hospital,Montefiore Health System,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5903001-1061,Montefiore Mount Vernon Hospital,Montefiore Health System,Z,No mention of immigration status as a barrier,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4324000-0776,Montefiore Nyack,Montefiore Health System,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4324000-0776,Montefiore Nyack,Montefiore Health System,AE,Contact information included in application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002002-15437,Mount Sinai - Behavioral Health Center,Mount Sinai,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002002-15437,Mount Sinai - Behavioral Health Center,Mount Sinai,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002002-1324,Mount Sinai Brooklyn,Mount Sinai,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002002-1324,Mount Sinai Brooklyn,Mount Sinai,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002024-1456,Mount Sinai Hospital,Mount Sinai,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002024-1456,Mount Sinai Hospital,Mount Sinai,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002024-1639,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Mount Sinai,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002024-1639,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Mount Sinai,V,Primary Service Area boundaries compliant with 2007 guidelines?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002024-1639,Mount Sinai Hospital - Mount Sinai Hospital of Queens,Mount Sinai,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002032-1469,Mount Sinai Morningside,Mount Sinai,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002032-1469,Mount Sinai Morningside,Mount Sinai,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2950001-0527,Mount Sinai South Nassau,Mount Sinai,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2950001-0527,Mount Sinai South Nassau,Mount Sinai,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002032-1466,Mount Sinai West,Mount Sinai,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002032-1466,Mount Sinai West,Mount Sinai,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3121001-0583,Mount St. Mary's Hospital and Health Center,Catholic Health (Buffalo),U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3121001-0583,Mount St. Mary's Hospital and Health Center,Catholic Health (Buffalo),AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2950002-0528,Nassau University Medical Center,NuHealth,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2950002-0528,Nassau University Medical Center,NuHealth,V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1701000-0330,Nathan Littauer Hospital,Nathan Littauer Hospital & Nursing Home,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002026-1460,New York Eye and Ear Infirmary of Mount Sinai,Mount Sinai,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002026-1460,New York Eye and Ear Infirmary of Mount Sinai,Mount Sinai,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3102000-0574,Niagara Falls Memorial Medical Center,Niagra Falls Memorial Medical Center,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2951001-0541,North Shore University Hospital,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5920000-1117,Northern Westchester Hospital,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-9753,NYU Langone Hospital - Joseph S. and Diane H. Steinberg Ambulatory Care Center,NYU Langone Health,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-9753,NYU Langone Hospital - Joseph S. and Diane H. Steinberg Ambulatory Care Center,NYU Langone Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-1304,NYU Langone Hospital-Brooklyn,NYU Langone Health,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-1304,NYU Langone Hospital-Brooklyn,NYU Langone Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-0511,NYU Langone Hospital-Long Island,NYU Langone Health,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-0511,NYU Langone Hospital-Long Island,NYU Langone Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-1463,NYU Langone Hospitals,NYU Langone Health,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-1463,NYU Langone Hospitals,NYU Langone Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-1446,NYU Langone Orthopedic Hospital,NYU Langone Health,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7002053-1446,NYU Langone Orthopedic Hospital,NYU Langone Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5123000-885,NYU Langone Hospital - Suffolk (formerly Long Island Community Hospital),NYU Langone Health,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5123000-885,NYU Langone Hospital - Suffolk (formerly Long Island Community Hospital),NYU Langone Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2601001-0397,Oneida Health Hospital,Oneida Health,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0301001-0043,Our Lady of Lourdes Memorial Hospital,The Guthrie Clinic,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0301001-0043,Our Lady of Lourdes Memorial Hospital,The Guthrie Clinic,AD,ENTIRE Uniform Application,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0301001-0043,Our Lady of Lourdes Memorial Hospital,The Guthrie Clinic,AG,Income & Discount Tables Incuded in Application,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0301001-0043,Our Lady of Lourdes Memorial Hospital,The Guthrie Clinic,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5155000-0938,Peconic Bay Medical Center,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5932000-1129,Phelps Hospital,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2952005-0552,Plainview Hospital,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7004010-1738,Richmond University Medical Center,Richmond University Medical Center,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7004010-1738,Richmond University Medical Center,Richmond University Medical Center,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7004010-1738,Richmond University Medical Center,Richmond University Medical Center,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3201002-0589,"Rome Memorial Hospital, Inc",Rome Health,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3201002-0589,"Rome Memorial Hospital, Inc",Rome Health,AD,ENTIRE Uniform Application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3201002-0589,"Rome Memorial Hospital, Inc",Rome Health,AE,Contact information included in application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3201002-0589,"Rome Memorial Hospital, Inc",Rome Health,AG,Income & Discount Tables Incuded in Application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3201002-0589,"Rome Memorial Hospital, Inc",Rome Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3201002-0589,"Rome Memorial Hospital, Inc",Rome Health,AI,Max FPL (compliant is =/>400%),no,400%,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3201002-0589,"Rome Memorial Hospital, Inc",Rome Health,AJ,Installments capped at 5% of monthly income,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401010-0216,Roswell Park Cancer Institute,Roswell Park,T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401010-0216,Roswell Park Cancer Institute,Roswell Park,V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401010-0216,Roswell Park Cancer Institute,Roswell Park,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401010-0216,Roswell Park Cancer Institute,Roswell Park,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4102002-0756,Samaritan Hospital,Trinity Health,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4102002-0756,Samaritan Hospital,Trinity Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4102002-0004,Samaritan Hospital - Albany Memorial Campus,Trinity Health,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4102002-0004,Samaritan Hospital - Albany Memorial Campus,Trinity Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4501000-0818,Saratoga Hospital,Albany Med Health System,V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7000014-1176,SBH Health System,SBH Health System,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4823700-0858,Schuyler Hospital,Centralus Health (Cayuga Health & Arnot Health),T,Policy Statement Posted,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4823700-0858,Schuyler Hospital,Centralus Health (Cayuga Health & Arnot Health),V,Primary Service Area boundaries compliant with 2007 guidelines?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4823700-0858,Schuyler Hospital,Centralus Health (Cayuga Health & Arnot Health),W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4823700-0858,Schuyler Hospital,Centralus Health (Cayuga Health & Arnot Health),AL,Primary Service Area described in summary?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4823700-0858,Schuyler Hospital,Centralus Health (Cayuga Health & Arnot Health),AN,Income levels used to determine assistance,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401013-0218,Sisters of Charity Hospital,Catholic Health (Buffalo),U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401013-0218,Sisters of Charity Hospital,Catholic Health (Buffalo),AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401013-0292,Sisters of Charity Hospital - St. Joseph Campus,Catholic Health (Buffalo),U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1401013-0292,Sisters of Charity Hospital - St. Joseph Campus,Catholic Health (Buffalo),AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5907001-1124,SJRH - Dobbs Ferry Pavillion,St. John's Medical Group,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5907001-1099,SJRH - Park Care Pavilion,St. John's Medical Group,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5907001-1097,SJRH - St Johns Division,St. John's Medical Group,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2950001-9691,South Nassau Communities Hospital Off-Campus Emergency Department (Freestanding Emergency Department at Long Beach),Mount Sinai,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2950001-9691,South Nassau Communities Hospital Off-Campus Emergency Department (Freestanding Emergency Department at Long Beach),Mount Sinai,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5154000-0924,South Shore University Hospital,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3529000-0704,St Anthony Community Hospital,Westchester Medical Center Health Network,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3529000-0704,St Anthony Community Hospital,Westchester Medical Center Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3529000-0704,St Anthony Community Hospital,Westchester Medical Center Health Network,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5157003-0943,St Catherine of Siena Hospital,Catholic Health (LI),Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001024-1635,St Johns Episcopal Hospital South Shore,Episcopal Health Services,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001024-1635,St Johns Episcopal Hospital South Shore,Episcopal Health Services,AD,ENTIRE Uniform Application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001024-1635,St Johns Episcopal Hospital South Shore,Episcopal Health Services,AG,Income & Discount Tables Incuded in Application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001024-1635,St Johns Episcopal Hospital South Shore,Episcopal Health Services,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001024-1635,St Johns Episcopal Hospital South Shore,Episcopal Health Services,AI,Max FPL (compliant is =/>400%),no,400%,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001024-1635,St Johns Episcopal Hospital South Shore,Episcopal Health Services,AJ,Installments capped at 5% of monthly income,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001024-1635,St Johns Episcopal Hospital South Shore,Episcopal Health Services,AN,Income levels used to determine assistance,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5149001-0896,St. Charles Hospital,Catholic Health (LI),Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2953000-0563,St. Francis Hospital & Heart Center,Catholic Health (LI),Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2952006-0551,St. Joseph Hospital,Catholic Health (LI),Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701001-0118,St. Joseph's Hospital,Centralus Health (Cayuga Health & Arnot Health),S,"Policy Summary Posted (as PDF, or on landing page)",no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701001-0118,St. Joseph's Hospital,Centralus Health (Cayuga Health & Arnot Health),U,Consistent across posted documents (Y/N),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701001-0118,St. Joseph's Hospital,Centralus Health (Cayuga Health & Arnot Health),V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701001-0118,St. Joseph's Hospital,Centralus Health (Cayuga Health & Arnot Health),W,No time limit to submit?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701001-0118,St. Joseph's Hospital,Centralus Health (Cayuga Health & Arnot Health),Y,No evidence of asset checks,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701001-0118,St. Joseph's Hospital,Centralus Health (Cayuga Health & Arnot Health),AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701001-0118,St. Joseph's Hospital,Centralus Health (Cayuga Health & Arnot Health),AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701001-0118,St. Joseph's Hospital,Centralus Health (Cayuga Health & Arnot Health),AM,Means of applying for assistance explained,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0701001-0118,St. Joseph's Hospital,Centralus Health (Cayuga Health & Arnot Health),AN,Income levels used to determine assistance,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3301003-0630,St. Joseph's Hospital Health Center,Trinity Health,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5907002-1098,St. Joseph's Medical Center,Saint Joseph's Medical Center,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0101004-9431,St. Peter's Addiction Recovery Center,Trinity Health,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0101004-9431,St. Peter's Addiction Recovery Center,Trinity Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0101004-0005,St. Peter's Hospital,Trinity Health,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0101004-0005,St. Peter's Hospital,Trinity Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0101004-15417,St. Peter's Hospital - SPARC,Trinity Health,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0101004-15417,St. Peter's Hospital - SPARC,Trinity Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7004003-1737,Staten Island University Hospital Prince's Bay,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7004003-1740,Staten Island University Hosp-North,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5151001-0891,Stony Brook Eastern Long Island Hospital,Stony Brook Medicine,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5151001-0889,Stony Brook Southampton Hospital,Stony Brook Medicine,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5151001-0245,Stony Brook University Hospital,Stony Brook Medicine,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4601004-0831,Sunnyview Hospital and Rehabilitation Center,Trinity Health,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,4601004-0831,Sunnyview Hospital and Rehabilitation Center,Trinity Health,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,2951001-0550,Syosset Hospital,Northwell Health,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1624700-15485,The University of Vermont Health Network - Alice Hyde Medical Center,The University of Vermont Health Network,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1624700-15485,The University of Vermont Health Network - Alice Hyde Medical Center,The University of Vermont Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0901001-0135,The University of Vermont Health Network - Champlain Valley Physicians Hospital,The University of Vermont Health Network,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0901001-0135,The University of Vermont Health Network - Champlain Valley Physicians Hospital,The University of Vermont Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1552701-0303,The University of Vermont Health Network - Elizabethtown Community Hospital,The University of Vermont Health Network,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,1552701-0303,The University of Vermont Health Network - Elizabethtown Community Hospital,The University of Vermont Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001037-1320,University Hospital of Brooklyn (University Hospital at Downstate),SUNY Downstate Health Sciences University,S,"Policy Summary Posted (as PDF, or on landing page)",no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001037-1320,University Hospital of Brooklyn (University Hospital at Downstate),SUNY Downstate Health Sciences University,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001037-1320,University Hospital of Brooklyn (University Hospital at Downstate),SUNY Downstate Health Sciences University,V,Primary Service Area boundaries compliant with 2007 guidelines?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001037-1320,University Hospital of Brooklyn (University Hospital at Downstate),SUNY Downstate Health Sciences University,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001037-1320,University Hospital of Brooklyn (University Hospital at Downstate),SUNY Downstate Health Sciences University,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001037-1320,University Hospital of Brooklyn (University Hospital at Downstate),SUNY Downstate Health Sciences University,AM,Means of applying for assistance explained,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001037-1320,University Hospital of Brooklyn (University Hospital at Downstate),SUNY Downstate Health Sciences University,AN,Income levels used to determine assistance,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3301007-0635,Upstate University Hospital and Rehabilitation Center (prev. University Hospital SUNY Health Science Center),SUNY Upstate Medical University,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0602001-0103,UPMC Chautauqua at WCA,University of Pittsburgh Medical Center (?),U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0602001-0103,UPMC Chautauqua at WCA,University of Pittsburgh Medical Center (?),W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,0602001-0103,UPMC Chautauqua at WCA,University of Pittsburgh Medical Center (?),AE,Contact information included in application,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,3301007-0628,UPSTATE University Hospital at Community General,SUNY Upstate Medical University,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957001-1139,Westchester Medical Center,Westchester Medical Center Health Network,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957001-1139,Westchester Medical Center,Westchester Medical Center Health Network,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5957001-1139,Westchester Medical Center,Westchester Medical Center Health Network,AL,Primary Service Area described in summary?,no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5902001-1045,White Plains Hospital Center,Montefiore Health System,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5902002-1046,Winifred Masterson Burke Rehabilitation Hospital,Montefiore Health System,U,Consistent across posted documents (Y/N),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5902002-1046,Winifred Masterson Burke Rehabilitation Hospital,Montefiore Health System,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,5902002-1046,Winifred Masterson Burke Rehabilitation Hospital,Montefiore Health System,Y,No evidence of asset checks,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001035-1318,Wyckoff Heights Medical Center,Wyckoff,W,No time limit to submit?,yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,7001035-1318,Wyckoff Heights Medical Center,Wyckoff,AH,FPL Guidelines (current year),no,yes,Nov 2026 re-audit vs Sept 2025 CSSNY baseline
+2026-11-09,2026-11-09-initial,6027700-15620,Wyoming County Community Hospital,Wyoming County Community Health System,AH,FPL Guidelines (current year),yes,no,Nov 2026 re-audit vs Sept 2025 CSSNY baseline

@@ -1,0 +1,8 @@
+{
+  "fpl_year": 2026,
+  "fpl_100pct_48_states": {"1": 15960, "2": 21640, "3": 27320, "4": 33000, "5": 38680, "6": 44360, "7": 50040, "8": 55720, "each_additional": 5680},
+  "fpl_source": "https://aspe.hhs.gov/sites/default/files/documents/b1bfa16b20ae9b89d525bc35de7c1643/detailed-guidelines-2026.pdf",
+  "prior_year_1_person": {"2025": 15650, "2024": 15060, "2023": 14580},
+  "systems_per_run": 10,
+  "note": "When HHS publishes new poverty guidelines (usually January), update fpl_year and the table. Column AH is graded against fpl_year."
+}

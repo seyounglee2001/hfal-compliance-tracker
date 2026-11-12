@@ -5,6 +5,10 @@
 
 A traceable, public-interest hospital financial-assistance monitoring prototype. The 2025 CSSNY manual review is an **archival baseline**; it is never presented as current evidence. **Live grades remain pending/provisional until source documents are retrieved and verified.** No patient eligibility advice.
 
+## Agent-maintained audit tracker (`audit/`)
+
+A version-controlled tracker, separate from the app below, that a scheduled Claude agent keeps current. `audit/tracker.csv` holds one row per hospital with **Last Updated** and **Last Checked** dates. `audit/changelog.csv` logs every field change. The spreadsheet is regenerated at `audit/exports/hfal-compliance-tracker.xlsx`. See [`audit/README.md`](audit/README.md).
+
 ## What is implemented
 
 - 212 2025 baseline facilities, keyed by `OCN_PFI` (not hospital name). One record lacks PFI and OCN: it receives a deterministic **UNRESOLVED** temporary identifier and a reconciliation warning.
