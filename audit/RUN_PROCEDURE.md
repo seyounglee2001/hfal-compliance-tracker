@@ -2,7 +2,7 @@
 
 The scheduled agent follows this file on every run. Each run re-checks the health systems that were checked least recently (`systems_per_run` in `config.json`, default 10). With 71 systems, that covers the whole state in about 7–8 runs.
 
-1. **Get the repo.** Clone `bguzell/h-compliance-tracker` (shallow is fine) and `cd` into it. `pip install openpyxl` if it's missing.
+1. **Get the repo.** Clone `seyounglee2001/hfal-compliance-tracker` (shallow is fine) and `cd` into it. `pip install openpyxl` if it's missing.
 2. **Pick the batch.** `python audit/scripts/select_batch.py`. This writes `audit/work/batch.json`. To audit specific systems instead: `--system "Northwell Health" --system "Kaleida Health"`.
 3. **Audit.** Follow `audit/AUDIT_INSTRUCTIONS.md` for every hospital in the batch and write `audit/work/results.json`. Parallel helper agents are fine: one per 2–3 systems, each writing its own file, then merge them into one list.
 4. **Self-check before applying.**
